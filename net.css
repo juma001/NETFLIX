@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#bar{
+    display:flex;
+    border:solid;
+    padding: 10px;
+    margin: 10px;
+    border-radius:10px ;
+}
