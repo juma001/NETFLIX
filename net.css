@@ -4,7 +4,9 @@ body{  background-image: linear-gradient(rgb(68, 1, 1), rgb(138, 13, 13));}
     justify-content: space-between;
     list-style: none;
 }
-a{color: rgb(243, 243, 243);}
+a{color: rgb(243, 243, 243);
+    font-size: 20px;
+}
 .free > div {
     background-color: rgb(255, 0, 0);
     margin: 30px;
@@ -12,16 +14,36 @@ a{color: rgb(243, 243, 243);}
 }
 .pro{
     display: flex;
-    border: solid;
-    justify-content: space-between;
     padding: 10px;
     margin: 10px;
+    justify-content: space-between;
 }
 #sooo{
     flex-direction: column;
+    font-size: 30px;
 }
 .fle{
     background-color: rgb(255, 0, 0)240, 240);
     padding: 30px;
     margin: 10px;
+}
+.button{
+    background-color: red;
+    padding: 10px;
+    m
+}
+.cri{
+    margin:30px ;
+}
+.one{
+    display: flex;
+}
+.crii{
+    margin: 30px;
+}
+.criii{
+    margin: 30px; 
+}
+.emo{
+    background-color: red;
 }
