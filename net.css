@@ -1,16 +1,20 @@
-body{  background-image: linear-gradient(rgb(68, 1, 1), rgb(138, 13, 13));}
+body{
+    background-color: rgb(100, 4, 4);
+}
+#one { background-image: linear-gradient(rgb(0, 0, 0), rgb(189, 6, 6));
+padding: 15px; }
+#two{ background-image: linear-gradient(rgb(0, 0, 0), rgb(189, 6, 6));
+padding: 15px;}
+#three{ background-image: linear-gradient(rgb(0, 0, 0), rgb(189, 6, 6));
+padding 15px}
 .flex{
     display: flex;
     justify-content: space-between;
     list-style: none;
+    margin: 30px;
 }
 a{color: rgb(243, 243, 243);
     font-size: 20px;
-}
-.free > div {
-    background-color: rgb(255, 0, 0);
-    margin: 30px;
-    padding-block: ;
 }
 .pro{
     display: flex;
@@ -30,13 +34,19 @@ a{color: rgb(243, 243, 243);
 .button{
     background-color: red;
     padding: 10px;
-    m
+    color: white;
 }
 .cri{
     margin:30px ;
 }
 .one{
     display: flex;
+}
+.two{
+    display: flex;
+}
+.three{
+display: flex;
 }
 .crii{
     margin: 30px;
@@ -46,4 +56,18 @@ a{color: rgb(243, 243, 243);
 }
 .emo{
     background-color: red;
+    margin: 30px;
+    font-size:30px ;
 }
+.netflix{
+    display:flex;
+}
+.net{
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+}
+.nuu{
+    
+}
+
